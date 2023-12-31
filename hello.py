@@ -1,5 +1,10 @@
-def add(x, y):
-    return x + y
+def toyou(x):
+    return f"hi {x}"
 
 
-print(f"hello world cloud{9}")
+def add(x):
+    return x + 1
+
+
+def subtract(x):
+    return x - 1
